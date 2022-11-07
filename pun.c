@@ -4,7 +4,7 @@ int main(void)
   int i;
   float x;
 
-  i = 40;
+  i = 30;
   x = 839.21f;
 
   printf("|%d|%5d|%-5d|%5.3d|\n", i, i, i, i);
