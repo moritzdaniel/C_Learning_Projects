@@ -5,7 +5,7 @@ int main(void)
   float x;
 
   i = 30;
-  x = 839.21f;
+  x = 839.40f;
 
   printf("|%d|%5d|%-5d|%5.3d|\n", i, i, i, i);
   printf("|%10.3f|%10.3e|%-10g|\n", x, x, x);
